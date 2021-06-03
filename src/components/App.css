@@ -1,5 +1,5 @@
 .main {
-  margin-top: 5em;
+  margin-top: 6em;
 }
 
 .center {
@@ -61,4 +61,9 @@ i.icon {
   to {
     transform: rotate(360deg);
   }
+}
+
+.button {
+  display: flex;
+  float: right;
 }
