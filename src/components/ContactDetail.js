@@ -17,7 +17,7 @@ const ContactDetail = (props) => {
 			</div>
 			<div className="centre-div">
 				<Link to="/">
-					<button className="ui button blue center">
+					<button className=" ui inverted green button center">
 						Back to Contact List
 					</button>
 				</Link>

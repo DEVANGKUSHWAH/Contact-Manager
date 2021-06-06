@@ -45,7 +45,7 @@ class EditContact extends React.Component {
 							onChange={(e) => this.setState({ email: e.target.value })}
 						/>
 					</div>
-					<button className="ui button blue"> Update </button>
+					<button className="ui inverted green button"> Update </button>
 				</form>
 			</div>
 		);
